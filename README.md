@@ -3,11 +3,11 @@
 > ## ⚠️ Retired — superseded by the web app
 >
 > This CLI is **deprecated as of 2026-08-02** and no longer maintained. It was
-> rewritten as a web app — **[juggle-web](https://github.com/Alienchisel/juggle-web)** —
+> rewritten as a web app — **[juggle (web app)](https://github.com/Alienchisel/juggle)** —
 > now the canonical tracker, running as a Slipway berth at `yard:4102`.
 >
 > - All history was migrated and **parity-verified** (3182 trials, Apex 376) against this repo.
-> - Backups are automated and off-box (`juggle-web` → `juggle-data`).
+> - Backups are automated and off-box (pushed to `juggle-data`).
 > - **Do not log new trials here.** This repo's `juggle-data/` is now a frozen
 >   snapshot; the web app's database is the single source of truth.
 >
